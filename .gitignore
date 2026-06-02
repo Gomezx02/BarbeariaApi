@@ -1,0 +1,10 @@
+# Pastas geradas automaticamente pelo .NET
+bin/
+obj/
+
+# Arquivos de configuração local
+*.user
+.DS_Store
+
+# Variáveis de ambiente (segredos!)
+.env
